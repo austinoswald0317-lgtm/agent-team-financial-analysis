@@ -1,0 +1,430 @@
+{
+  "financial_data": {
+    "agent": "Financial Data Agent",
+    "company": "NVIDIA CORP",
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "sources": {
+      "sec_companyfacts": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001045810.json",
+      "nasdaq_price": "https://api.nasdaq.com/api/quote/NVDA/info?assetclass=stocks"
+    },
+    "annual_table": [
+      {
+        "fiscal_year": 2022,
+        "revenue": 26914000000,
+        "gross_profit": 17475000000,
+        "operating_income": 10041000000,
+        "net_income": 9752000000,
+        "rd_expense": 5268000000,
+        "operating_cash_flow": 9108000000,
+        "capex": 976000000,
+        "cash": 1990000000,
+        "marketable_securities": 20913000000,
+        "long_term_debt": 10946000000,
+        "current_debt": 0,
+        "total_assets": 44187000000,
+        "current_assets": 28829000000,
+        "total_liabilities": 17575000000,
+        "current_liabilities": 4335000000,
+        "equity": 26612000000,
+        "depreciation_amortisation": 1174000000,
+        "diluted_shares": 2535000000,
+        "shares_outstanding": 2506000000,
+        "eps_diluted": 3.85,
+        "period_end": "2022-01-30",
+        "filed": "2024-02-21",
+        "accession": "0001045810-24-000029"
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 26974000000,
+        "gross_profit": 15356000000,
+        "operating_income": 4224000000,
+        "net_income": 4368000000,
+        "rd_expense": 7339000000,
+        "operating_cash_flow": 5641000000,
+        "capex": 1833000000,
+        "cash": 3389000000,
+        "marketable_securities": 13055000000,
+        "long_term_debt": 10953000000,
+        "current_debt": 1250000000,
+        "total_assets": 41182000000,
+        "current_assets": 23073000000,
+        "total_liabilities": 19081000000,
+        "current_liabilities": 6563000000,
+        "equity": 22101000000,
+        "depreciation_amortisation": 1544000000,
+        "diluted_shares": 25070000000,
+        "shares_outstanding": 2466000000,
+        "eps_diluted": 0.17,
+        "period_end": "2023-01-29",
+        "filed": "2025-02-26",
+        "accession": "0001045810-25-000023"
+      },
+      {
+        "fiscal_year": 2024,
+        "revenue": 60922000000,
+        "gross_profit": 44301000000,
+        "operating_income": 32972000000,
+        "net_income": 29760000000,
+        "rd_expense": 8675000000,
+        "operating_cash_flow": 28090000000,
+        "capex": 1069000000,
+        "cash": 7280000000,
+        "marketable_securities": 25724000000,
+        "long_term_debt": 9709000000,
+        "current_debt": 1250000000,
+        "total_assets": 65728000000,
+        "current_assets": 44345000000,
+        "total_liabilities": 22750000000,
+        "current_liabilities": 10631000000,
+        "equity": 42978000000,
+        "depreciation_amortisation": 1508000000,
+        "diluted_shares": 24940000000,
+        "shares_outstanding": 24643000000,
+        "eps_diluted": 1.19,
+        "period_end": "2024-01-28",
+        "filed": "2026-02-25",
+        "accession": "0001045810-26-000021"
+      },
+      {
+        "fiscal_year": 2025,
+        "revenue": 130497000000,
+        "gross_profit": 97858000000,
+        "operating_income": 81453000000,
+        "net_income": 72880000000,
+        "rd_expense": 12914000000,
+        "operating_cash_flow": 64089000000,
+        "capex": 3236000000,
+        "cash": 8589000000,
+        "marketable_securities": 42106000000,
+        "long_term_debt": 8463000000,
+        "current_debt": 0,
+        "total_assets": 111601000000,
+        "current_assets": 80126000000,
+        "total_liabilities": 32274000000,
+        "current_liabilities": 18047000000,
+        "equity": 79327000000,
+        "depreciation_amortisation": 1864000000,
+        "diluted_shares": 24804000000,
+        "shares_outstanding": 24477000000,
+        "eps_diluted": 2.94,
+        "period_end": "2025-01-26",
+        "filed": "2026-02-25",
+        "accession": "0001045810-26-000021"
+      },
+      {
+        "fiscal_year": 2026,
+        "revenue": 215938000000,
+        "gross_profit": 153463000000,
+        "operating_income": 130387000000,
+        "net_income": 120067000000,
+        "rd_expense": 18497000000,
+        "operating_cash_flow": 102718000000,
+        "capex": 6042000000,
+        "cash": 10605000000,
+        "marketable_securities": 39520000000,
+        "long_term_debt": 8468000000,
+        "current_debt": 999000000,
+        "total_assets": 206803000000,
+        "current_assets": 125605000000,
+        "total_liabilities": 49510000000,
+        "current_liabilities": 32163000000,
+        "equity": 157293000000,
+        "depreciation_amortisation": 2843000000,
+        "diluted_shares": 24514000000,
+        "shares_outstanding": 24304000000,
+        "eps_diluted": 4.9,
+        "period_end": "2026-01-25",
+        "filed": "2026-02-25",
+        "accession": "0001045810-26-000021"
+      }
+    ],
+    "latest_quarter": {
+      "period": "Q2 FY2027 ended 2026-07-26 (cumulative year-to-date)",
+      "revenue_usd": 177837000000,
+      "net_income_usd": 118010000000,
+      "filed": "2026-08-26",
+      "standalone_revenue_usd": 96221000000,
+      "standalone_net_income_usd": 59688000000,
+      "note": "10-Q headline figures are cumulative year-to-date; the standalone figure is the single quarter."
+    },
+    "price": {
+      "price_usd": 128.8044,
+      "as_of": "Nov 20, 2026 5:05 PM ET",
+      "source": "https://api.nasdaq.com/api/quote/NVDA/info?assetclass=stocks"
+    },
+    "missing_tags": [
+      "revenue",
+      "gross_profit",
+      "operating_income",
+      "net_income",
+      "rd_expense",
+      "operating_cash_flow",
+      "capex",
+      "cash",
+      "marketable_securities",
+      "long_term_debt",
+      "current_debt",
+      "total_assets",
+      "current_assets",
+      "total_liabilities",
+      "current_liabilities",
+      "equity",
+      "depreciation_amortisation",
+      "diluted_shares",
+      "shares_outstanding",
+      "eps_diluted"
+    ],
+    "notes": [
+      "Fiscal year ends in January: FY2026 ended 2026-01-25, 10-K filed 2026-02-25.",
+      "Marketable securities use AvailableForSaleSecuritiesDebtSecurities; MarketableSecuritiesCurrent has no FY2026 value in the company-facts file.",
+      "CapEx uses PaymentsToAcquireProductiveAssets (the tag NVIDIA reports); PaymentsToAcquirePropertyPlantAndEquipment has no recent values.",
+      "Segment revenue split is not present in the company-facts file, so the Industry Agent does not invent one (see industry.py)."
+    ]
+  },
+  "fundamental": {
+    "agent": "Fundamental Agent",
+    "by_year": {
+      "2022": {
+        "revenue_usd_bn": 26.914,
+        "gross_margin_pct": 64.92903321691314,
+        "operating_margin_pct": 37.307720888756776,
+        "net_margin_pct": 36.23393029649996,
+        "rd_intensity_pct": 19.573456193802482,
+        "fcf_usd_bn": 8.132,
+        "fcf_margin_pct": 30.214758118451364,
+        "roe_pct": 36.64512250112731,
+        "roa_pct": 22.069839545567703,
+        "revenue_growth_pct": null
+      },
+      "2023": {
+        "revenue_usd_bn": 26.974,
+        "gross_margin_pct": 56.928894490991325,
+        "operating_margin_pct": 15.65952398606065,
+        "net_margin_pct": 16.193371394676355,
+        "rd_intensity_pct": 27.20768147104619,
+        "fcf_usd_bn": 3.808,
+        "fcf_margin_pct": 14.117298138948616,
+        "roe_pct": 19.763811592235644,
+        "roa_pct": 10.606575688407558,
+        "revenue_growth_pct": 0.22293230289068885
+      },
+      "2024": {
+        "revenue_usd_bn": 60.922,
+        "gross_margin_pct": 72.71757329043696,
+        "operating_margin_pct": 54.121663766783755,
+        "net_margin_pct": 48.84934834706674,
+        "rd_intensity_pct": 14.239519385443684,
+        "fcf_usd_bn": 27.021,
+        "fcf_margin_pct": 44.35343554052723,
+        "roe_pct": 69.24472986178975,
+        "roa_pct": 45.277507302823764,
+        "revenue_growth_pct": 125.85452658115221
+      },
+      "2025": {
+        "revenue_usd_bn": 130.497,
+        "gross_margin_pct": 74.98869705816992,
+        "operating_margin_pct": 62.417526839697466,
+        "net_margin_pct": 55.848027157712444,
+        "rd_intensity_pct": 9.896012935163261,
+        "fcf_usd_bn": 60.853,
+        "fcf_margin_pct": 46.63172333463604,
+        "roe_pct": 91.87288060811576,
+        "roa_pct": 65.30407433625147,
+        "revenue_growth_pct": 114.20340763599357
+      },
+      "2026": {
+        "revenue_usd_bn": 215.938,
+        "gross_margin_pct": 71.06808435754708,
+        "operating_margin_pct": 60.38168363141272,
+        "net_margin_pct": 55.60253406070261,
+        "rd_intensity_pct": 8.565884652076058,
+        "fcf_usd_bn": 96.676,
+        "fcf_margin_pct": 44.770258129648326,
+        "roe_pct": 76.33333969089534,
+        "roa_pct": 58.05863551302447,
+        "revenue_growth_pct": 65.4735357900948
+      }
+    },
+    "revenue_cagr_fy22_fy26_pct": 68.30139148028267,
+    "net_income_cagr_fy22_fy26_pct": 87.31928513286049,
+    "latest_fy": 2026,
+    "leverage": {
+      "total_debt_usd_bn": 9.467,
+      "cash_and_securities_usd_bn": 50.125,
+      "net_cash_usd_bn": 40.658,
+      "current_ratio": 3.905263812455306,
+      "debt_to_equity": 0.06018703947410247
+    },
+    "assessment": [
+      "Gross margin above 60% in FY2026 \u2014 pricing power, not a commodity cost structure.",
+      "Net margin above 50% in FY2026 \u2014 unusually profitable even for a large-cap tech company.",
+      "Revenue grew at a 68% CAGR over FY2022-FY2026 \u2014 the growth is real but historically extreme, so it cannot be extrapolated safely.",
+      "Net cash of $40.7bn at FY2026 year-end (cash + marketable securities minus debt) \u2014 no solvency concern on the balance sheet.",
+      "FY2023 revenue was almost flat (+0.2%) and operating cash flow fell \u2014 the business is cyclical, not a straight line up."
+    ]
+  },
+  "industry": {
+    "agent": "Industry Agent",
+    "rd_usd_bn_by_year": {
+      "2022": 5.268,
+      "2023": 7.339,
+      "2024": 8.675,
+      "2025": 12.914,
+      "2026": 18.497
+    },
+    "rd_cagr_fy22_fy26_pct": 36.887528555975436,
+    "revenue_growth_pct_by_year": {
+      "2022": null,
+      "2023": 0.22293230289068885,
+      "2024": 125.85452658115221,
+      "2025": 114.20340763599357,
+      "2026": 65.4735357900948
+    },
+    "slowest_growth_year": 2023,
+    "moat_assessment": [
+      "Scale + switching costs: data-centre customers build systems, software (CUDA) and models around NVIDIA's platform; changing supplier means re-engineering, which is why gross margin stayed above 70% in FY2026.",
+      "R&D engine: R&D spend rose from $5.3bn (FY2022) to $18.5bn (FY2026), a 37% CAGR \u2014 the moat is funded every year, not a one-off patent.",
+      "Counterweight: that moat is tied to one demand wave (AI data-centre spending). FY2023 shows the cycle: revenue growth slowed to 0.2% and operating cash flow fell, before the AI wave lifted FY2024-FY2026."
+    ],
+    "competitive_risks": [
+      "Customer concentration risk is real in this industry (a few hyperscalers buy most data-centre GPUs) \u2014 but the exact share is not in the XBRL facts pulled here, so it is flagged, not quantified.",
+      "Competitors (AMD, custom silicon from cloud customers) attack the same market; no peer financials were pulled in this project, so no head-to-head margin comparison is claimed."
+    ],
+    "not_available": [
+      "Segment revenue split (Compute & Networking vs Graphics) \u2014 not present in the SEC company-facts file used here.",
+      "Total addressable market size / market share \u2014 no independent source was pulled; not estimated.",
+      "Peer financials \u2014 no peer filings were pulled in this project."
+    ],
+    "conclusion": "A dominant position in a fast-growing but cyclical market: revenue CAGR 68% (FY2022-FY2026), gross margin 71.1% in FY2026, funded by R&D that itself compounds. The moat looks real, but it is a single-wave moat \u2014 the FY2023 slowdown is the reminder."
+  },
+  "valuation": {
+    "agent": "Valuation Agent",
+    "fcf_fy2026_usd_bn": 96.676,
+    "assumptions": {
+      "fcf_base": "FY2026 free cash flow (operating cash flow minus capex)",
+      "fcf_growth_5y_pct": 12.0,
+      "discount_rate_pct": 10.0,
+      "terminal_growth_pct": 3.0,
+      "forecast_years": 5,
+      "shares": "shares outstanding at FY2026 year-end",
+      "net_cash_usd_bn": 40.658
+    },
+    "dcf": {
+      "enterprise_value_usd_bn": 2067.0210921452904,
+      "equity_value_usd_bn": 2107.6790921452907,
+      "value_per_share_usd": 86.72148996647837,
+      "forecast_fcf_usd_bn": [
+        108.28,
+        121.27,
+        135.82,
+        152.12,
+        170.38
+      ],
+      "terminal_value_usd_bn": 2506.9632700284938
+    },
+    "sensitivity_per_share_usd": {
+      "disc_9_term_2": 89.66,
+      "disc_9_term_3": 101.48,
+      "disc_9_term_4": 118.03,
+      "disc_10_term_2": 78.17,
+      "disc_10_term_3": 86.72,
+      "disc_10_term_4": 98.12,
+      "disc_11_term_2": 69.25,
+      "disc_11_term_3": 75.67,
+      "disc_11_term_4": 83.91
+    },
+    "sensitivity_range_usd": [
+      69.25,
+      118.03
+    ],
+    "growth_scenarios_per_share_usd": {
+      "fcf_growth_8pct": 73.9,
+      "fcf_growth_12pct": 86.72,
+      "fcf_growth_16pct": 101.39
+    },
+    "multiples": {
+      "price_usd": 128.8044,
+      "price_as_of": "Nov 20, 2026 5:05 PM ET",
+      "shares_outstanding_bn": 24.304,
+      "market_cap_usd_bn": 3130.4621375999996,
+      "pe_fy2026": 26.286612244897956,
+      "ev_usd_bn": 3089.8041375999996,
+      "ev_to_ebitda_fy2026": 23.191504447947157,
+      "ev_to_fcf_fy2026": 31.96040524639,
+      "ebitda_fy2026_usd_bn": 133.23
+    }
+  },
+  "risk": {
+    "agent": "Risk Agent",
+    "risks": [
+      {
+        "risk": "Valuation risk \u2014 the price already assumes a lot of growth",
+        "evidence": "At $128.80 (as of Nov 20, 2026 5:05 PM ET), the share price is 49% above this project's DCF base case ($86.72). The DCF only reaches the current price if FCF grows well above 12% a year or the discount rate is well below 10%.",
+        "severity": "high"
+      },
+      {
+        "risk": "Demand cyclicality \u2014 the AI wave can pause, as it did in FY2023",
+        "evidence": "Revenue growth was 0.2% in FY2023 and operating cash flow fell from $9.1bn (FY2022) to $5.6bn (FY2023). A pause in data-centre spending would hit revenue, margins and FCF at once.",
+        "severity": "high"
+      },
+      {
+        "risk": "Customer concentration",
+        "evidence": "A few hyperscale customers buy most data-centre GPUs. The exact share is not in the XBRL facts pulled here, so it is flagged qualitatively, not quantified. Losing or delaying one large customer matters.",
+        "severity": "medium"
+      },
+      {
+        "risk": "Competition and custom silicon",
+        "evidence": "AMD competes directly, and large cloud customers design their own AI chips. No peer financials were pulled, so this is a qualitative risk; the defence is R&D spend, which rose to $18.5bn in FY2026.",
+        "severity": "medium"
+      },
+      {
+        "risk": "Export controls and geopolitics (qualitative)",
+        "evidence": "US export controls on advanced chips to China are a known, recurring risk for NVIDIA. This project does not estimate the revenue at stake.",
+        "severity": "medium"
+      },
+      {
+        "risk": "Dilution / share-based compensation",
+        "evidence": "Shares outstanding fell from 24.64bn (FY2024) to 24.30bn (FY2026) \u2014 buybacks more than offset dilution over this window, but that depends on buybacks continuing.",
+        "severity": "low"
+      }
+    ],
+    "bear_case": {
+      "assumptions": "FCF growth 8% (vs 12% base), discount rate 11% (vs 10%), terminal growth 2% (vs 3%)",
+      "value_per_share_usd": 59.31608074553836,
+      "downside_vs_price_pct": -53.948715458836524,
+      "story": "AI data-centre spending pauses for a year, growth slows, and investors demand a higher return for the risk. FCF still grows, but the price paid today would be well above even a cautious fair value."
+    }
+  },
+  "investment_analyst": {
+    "agent": "Investment Analyst",
+    "final_judgement": "Strong business, demanding price. At $128.80 the market price is above even the top of this DCF sensitivity range ($69.25-$118.03), and 49% above the base case ($86.72). The business would have to grow faster than the 12% FCF growth assumed here \u2014 or be discounted at less than 10% \u2014 for the current price to equal the DCF value.",
+    "headline": {
+      "revenue_fy2026_usd_bn": 215.938,
+      "revenue_cagr_fy22_fy26_pct": 68.30139148028267,
+      "gross_margin_fy2026_pct": 71.06808435754708,
+      "net_margin_fy2026_pct": 55.60253406070261,
+      "fcf_fy2026_usd_bn": 96.676,
+      "dcf_base_per_share_usd": 86.72148996647837,
+      "dcf_sensitivity_range_usd": [
+        69.25,
+        118.03
+      ],
+      "price_usd": 128.8044,
+      "price_as_of": "Nov 20, 2026 5:05 PM ET",
+      "pe_fy2026": 26.286612244897956
+    },
+    "what_the_business_does_well": [
+      "Revenue CAGR 68% (FY2022-FY2026) with a 71.1% gross margin.",
+      "Free cash flow of $96.7bn in FY2026, a 45% FCF margin.",
+      "Net cash of $40.7bn \u2014 the balance sheet is not the risk."
+    ],
+    "what_would_change_the_judgement": [
+      "FCF growth sustained at about 22% a year for 5 years (vs 12% in the base case, at the same 10% discount rate) would be needed for the DCF to reach the current price \u2014 even 16% growth only gives $101.39 a share.",
+      "A data-centre spending pause (the FY2023 pattern) would cut the DCF sharply \u2014 see the Bear Case.",
+      "A lower discount rate (e.g. if rates fall) lifts every DCF value in the sensitivity table."
+    ],
+    "disclaimer": "Educational exercise only. This is not investment advice, not a recommendation to buy or sell any security, and the DCF is only as good as its stated assumptions."
+  }
+}
